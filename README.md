@@ -1,3 +1,3 @@
 # Cotizador de Autos
 
-![Cotizador](/img/img.jpg)
+![Cotizador](img/img.jpg)
